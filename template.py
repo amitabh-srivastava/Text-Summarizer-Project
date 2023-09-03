@@ -28,6 +28,7 @@ list_of_files = [
     "setup.py", #for local package setup
     "research/trials.ipynb", #for all notebook experiments.
     "test.py",
+    "test2.py"
 ]
 
 
